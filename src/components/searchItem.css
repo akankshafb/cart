@@ -1,0 +1,103 @@
+.HeaderStyle{
+    background-color: #4269ea;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+h2{
+    font-size: 20px !important;
+    text-align: left;
+    padding-top: 8px;
+    color: #353333;
+}
+.TotalItem{
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 0px;
+    text-align: center;
+    display: block;
+}
+.GoToLink{
+    background-color: #4269ea;
+    color: #fff;
+    padding: 12px 15px;
+    font-size: 12px;
+    display: block;
+    width: 100px;
+    text-align: center;
+    float:right;
+}
+.cartImage{
+    float: right;
+    height: 30px;
+    width: 30px;
+    color: #fff;
+}
+.itemCount {
+    padding-top: 2px;
+    z-index: 99999;
+    margin-right: 0px;
+    background-color: brown;
+    width: 25px;
+    height: 25px;
+    margin-left: 150px;
+    position: absolute;
+    top: 0px;
+    border-radius: 15px;
+    color: #fff;
+    right: 10px;
+}
+.copyright{
+    text-align: center;
+}
+.left-align{
+    text-align: left;
+}
+.logoImage{
+    height: 50px;
+    width: 50px;
+}
+.sorting{
+    display: flex;
+    padding: 15px 0 0 0;
+}
+.input-range__track {
+    background: #856404 !important;
+}
+.input-range__track--active {
+    background: #3f51b5 !important;
+}
+.filterHeading{
+    padding: 15px;
+    text-align: left;
+}
+.priceApplyBtn{
+    background-color: #4269ea !important;
+    color: #fff !important;
+    font-weight: bold;
+    border: 1px solid #4269ea !important;
+    border-radius: 25px;
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+.mobileSection {
+    padding: 20px 0 30px 0;
+}
+.sortBtn{
+    width: 100%;
+    padding: 5px 0;
+    background: #eeeeee;
+    color: #000;
+    border: 1px solid #000000;
+}
+.filterBtn{
+    width: 100%;
+    padding: 5px 0;
+    background: #eeeeee;
+    color: #000;
+    border: 1px solid #000000;
+}
