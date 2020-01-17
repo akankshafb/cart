@@ -1,0 +1,63 @@
+.bgWhite{
+    background-color: white;
+}
+.summaryHeader{
+    margin-right: -15px !important;
+    margin-left: -15px !important;
+}
+.rightBorder{
+    border-right: 2px solid #eee;
+}
+h2{
+    color:#ffffff;
+}
+.rightHeadingPrice{
+    text-align: left;
+    font-size: 20px;
+    padding: 15px 0;
+    color: #908888;
+    font-family: 'Verdana';
+    border-bottom: 2px solid #eee;
+    padding-bottom: 2px;
+}
+.rightPriceDetails{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 15px;
+    color: #908888;
+    font-family: 'Verdana';
+    
+}
+.row.priceSection {
+    padding: 25px 0;
+}
+.totalOrder{
+    padding: 10px 0px;
+    border: 2px solid #eee;
+    border-left: 0px;
+    border-right: 0px;
+}
+input.itemQty {
+    width: 40px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 4px;
+}
+input.minusBtn {
+    margin-right: 5px;
+    background: #fff;
+    border-radius: 15px;
+    border: 2px solid #ffc107;
+    width: 30px;
+}
+input.plusBtn {
+    margin-left: 5px;
+    background: #fff;
+    border-radius: 15px;
+    border: 2px solid #ffc107;
+}
+
+.emptyCartMsgDiv{
+    width: 100%;
+    padding-top: 50px;
+}
